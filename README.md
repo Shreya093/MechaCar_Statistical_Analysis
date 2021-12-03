@@ -77,7 +77,7 @@ Below is the summary statistics of all of the manufacturing lots. The mean is 14
 
 The means of the lot numbers are similar to the population mean and the sample mean.
 
-<img width="480" alt="lot_summary" src="https://user-images.githubusercontent.com/88418201/144670586-8d437657-cc4c-4e6a-b2a1-483fc8cd103e.png">
+<img width="490" alt="lot_summary" src="https://user-images.githubusercontent.com/88418201/144670586-8d437657-cc4c-4e6a-b2a1-483fc8cd103e.png">
 
 **1. The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?**
 
