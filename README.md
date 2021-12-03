@@ -71,13 +71,13 @@ R-squared is 0.7149, which is a strong correlation for the dataset and shows the
 
 Below is the summary statistics of all of the manufacturing lots. The mean is 1498.78 for this sample and the population mean was determined to be 1500.
 
-<img width="470" alt="tot_summary" src="https://user-images.githubusercontent.com/88418201/144670510-e105fe4d-a0a5-4923-8d21-52ccdb363093.png">
+<img width="460" alt="tot_summary" src="https://user-images.githubusercontent.com/88418201/144670510-e105fe4d-a0a5-4923-8d21-52ccdb363093.png">
 
 ### Summary by Manufacturing Lot Number
 
 The means of the lot numbers are similar to the population mean and the sample mean.
 
-<img width="460" alt="lot_summary" src="https://user-images.githubusercontent.com/88418201/144670586-8d437657-cc4c-4e6a-b2a1-483fc8cd103e.png">
+<img width="480" alt="lot_summary" src="https://user-images.githubusercontent.com/88418201/144670586-8d437657-cc4c-4e6a-b2a1-483fc8cd103e.png">
 
 **1. The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?**
 
