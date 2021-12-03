@@ -39,19 +39,22 @@ We have used the summary() function, determine the p-value and the r-squared val
 A 95% level of confidence was predetermined, meaning the p-value should be compared to alpha = 0.05 level of significance to verify if statistically significant.
 
 Coefficients:
-mpg: 0 < 0.05, statistically significant, non-random amount of variance
-vehicle length: 0 < 0.05, statistically significant, non-random amount of variance
-vehicle weight: 0.08 > 0.05 not statistically significant, random amount of variance
-spoiler angle: 0.31 > 0.05 not statistically significant, random amount of variance
-ground clearance: 0 > 0.05 statistically significant, non-random amount of variance
+
+mpg: 0 < 0.05, statistically significant, non-random amount of variance.
+vehicle length: 0 < 0.05, statistically significant, non-random amount of variance.
+vehicle weight: 0.08 > 0.05 not statistically significant, random amount of variance.
+spoiler angle: 0.31 > 0.05 not statistically significant, random amount of variance.
+ground clearance: 0 > 0.05 statistically significant, non-random amount of variance.
 AWD: 0.19>=0.05 not statistically significant, random amount of variance
 
 In summary, vehicle length and ground clearance variables represent non-random amounts of variance as applied to the mpg values.
 
 **2. Is the slope of the linear model considered to be zero? Why or why not?**
 
-Converting from scientific notation, all of the slopes of the variables are shown to be non-zero even though some are close to zero:
+Converting from scientific notation, all of the slopes of the variables are shown to be non-zero even though some are close to zero.
+
 Coefficients:
+
 vehicle length: 6.267
 vehicle weight: 0.001
 spoiler angle: 0.069
