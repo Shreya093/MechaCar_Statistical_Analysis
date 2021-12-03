@@ -39,12 +39,12 @@ We have used the summary() function, determine the p-value and the r-squared val
 A 95% level of confidence was predetermined, meaning the p-value should be compared to alpha = 0.05 level of significance to verify if statistically significant.
 
 Coefficients:
-> mpg: 0 < 0.05, statistically significant, non-random amount of variance.
-> vehicle length: 0 < 0.05, statistically significant, non-random amount of variance.
-> vehicle weight: 0.08 > 0.05 not statistically significant, random amount of variance.
-> spoiler angle: 0.31 > 0.05 not statistically significant, random amount of variance.
-> ground clearance: 0 > 0.05 statistically significant, non-random amount of variance.
-> AWD: 0.19>=0.05 not statistically significant, random amount of variance
+1. mpg: 0 < 0.05, statistically significant, non-random amount of variance.
+2. vehicle length: 0 < 0.05, statistically significant, non-random amount of variance.
+3. vehicle weight: 0.08 > 0.05 not statistically significant, random amount of variance.
+4. spoiler angle: 0.31 > 0.05 not statistically significant, random amount of variance.
+5. ground clearance: 0 > 0.05 statistically significant, non-random amount of variance.
+6. AWD: 0.19>=0.05 not statistically significant, random amount of variance
 
 In summary, vehicle length and ground clearance variables represent non-random amounts of variance as applied to the mpg values.
 
@@ -53,11 +53,11 @@ In summary, vehicle length and ground clearance variables represent non-random a
 Converting from scientific notation, all of the slopes of the variables are shown to be non-zero even though some are close to zero.
 
 Coefficients:
-> vehicle length: 6.267
-> vehicle weight: 0.001
-> spoiler angle: 0.069
-> ground clearance: 3.546
-> AWD: -3.411
+1. vehicle length: 6.267
+2. vehicle weight: 0.001
+3. spoiler angle: 0.069
+4. ground clearance: 3.546
+5. AWD: -3.411
 
 The multiple linear regression formula for mpg = -0.01 + 6.267(vehicle length)+0.001(vehicle weight)+.069(spoiler angle)+3.546(ground clearance)-3.411(AWD), which results in a non-zero slope.
 
