@@ -71,7 +71,7 @@ R-squared is 0.7149, which is a strong correlation for the dataset and shows the
 
 Below is the summary statistics of all of the manufacturing lots. The mean is 1498.78 for this sample and the population mean was determined to be 1500.
 
-<img width="460" alt="tot_summary" src="https://user-images.githubusercontent.com/88418201/144670510-e105fe4d-a0a5-4923-8d21-52ccdb363093.png">
+<img width="470" alt="tot_summary" src="https://user-images.githubusercontent.com/88418201/144670510-e105fe4d-a0a5-4923-8d21-52ccdb363093.png">
 
 ### Summary by Manufacturing Lot Number
 
